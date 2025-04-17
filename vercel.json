@@ -5,9 +5,5 @@
   ],
   "routes": [
     { "src": "/", "dest": "index.js" }
-  ],
-  "environment": {
-    "MONGODB_URI": "@mongodb_uri",
-    "OWNER_NUMBER": "@owner_number"
   }
 }
